@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mohiniagrawal4667/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3917-count-indices-with-opposite-parity](https://github.com/mohiniagrawal4667/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Matrix
 |  |
 | ------- |
