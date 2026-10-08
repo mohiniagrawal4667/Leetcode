@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0055-jump-game) |
+## Math
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1006-clumsy-factorial) |
+## Stack
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1006-clumsy-factorial) |
+## Simulation
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
