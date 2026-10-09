@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mohiniagrawal4667/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/mohiniagrawal4667/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Matrix
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
 | ------- |
