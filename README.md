@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0055-jump-game) |
 | [0283-move-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0283-move-zeroes) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 ## Hash Table
