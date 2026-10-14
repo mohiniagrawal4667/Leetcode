@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0022-generate-parentheses) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0055-jump-game) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Trie
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
