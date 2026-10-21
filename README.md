@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## String
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Prefix Sum
 |  |
@@ -131,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
