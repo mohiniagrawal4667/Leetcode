@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0055-jump-game) |
 ## Math
 |  |
