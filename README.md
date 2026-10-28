@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Binary Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Prefix Sum
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
