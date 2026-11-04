@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0357-count-numbers-with-unique-digits](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Trie
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0070-climbing-stairs) |
+| [0357-count-numbers-with-unique-digits](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1006-clumsy-factorial](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Stack
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0051-n-queens) |
+| [0357-count-numbers-with-unique-digits](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
