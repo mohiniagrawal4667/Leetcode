@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [1079-letter-tile-possibilities](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
 | [0647-palindromic-substrings](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [1079-letter-tile-possibilities](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0051-n-queens) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1079-letter-tile-possibilities](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
+| [1079-letter-tile-possibilities](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
