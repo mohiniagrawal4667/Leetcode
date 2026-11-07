@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1006-clumsy-factorial](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Stack
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1079-letter-tile-possibilities](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Bracket Sequences
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
 ## Memoization
