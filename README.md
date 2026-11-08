@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0079-word-search) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mohiniagrawal4667/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Enumeration
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1079-letter-tile-possibilities](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1079-letter-tile-possibilities) |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Algorithm X
 |  |
