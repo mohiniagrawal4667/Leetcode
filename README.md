@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0089-gray-code) |
 | [0357-count-numbers-with-unique-digits](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1006-clumsy-factorial](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Stack
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Memoization
 |  |
 | ------- |
