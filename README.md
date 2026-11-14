@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
