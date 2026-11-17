@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1006-clumsy-factorial](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1006-clumsy-factorial) |
 ## Simulation
