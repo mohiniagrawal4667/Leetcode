@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0823-binary-trees-with-factors](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/mohiniagrawal4667/Leetcode/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/mohiniagrawal4667/Leetcode/tree/master/3917-count-indices-with-opposite-parity) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0823-binary-trees-with-factors) |
 | [1079-letter-tile-possibilities](https://github.com/mohiniagrawal4667/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## String
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0647-palindromic-substrings](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0823-binary-trees-with-factors) |
 ## Trie
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0389-find-the-difference) |
 | [0792-number-of-matching-subsequences](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0823-binary-trees-with-factors](https://github.com/mohiniagrawal4667/Leetcode/tree/master/0823-binary-trees-with-factors) |
 ## Prefix Sum
 |  |
 | ------- |
